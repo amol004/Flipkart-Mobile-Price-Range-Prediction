@@ -2,7 +2,7 @@
 
 ![download](https://github.com/user-attachments/assets/fc518633-3e60-4a24-b8eb-fe1095557ff9)
 
-# Project Summary -
+# Project Summary 
 One of the most popular and widely bought devices nowadays is the mobile. New mobile devices are released daily, often with updated software and more capabilities. Every day, tens of thousands of mobile phones are sold and bought. As a result, price estimate and prediction are crucial components of consumer strategy since a new product must be offered at the right price for customers to consider it suitable to purchase. People frequently make poor selections when buying mobile phones because they lack the tools needed to double-check the pricing. I created various categorization models utilising information about various mobile phone aspects in order to handle this problem.The developed model is then used to predict the price range of the new mobile phones.
 
 The major goal of this research is to determine whether there is a correlation between a mobile phone's price range and its characteristics, which predicts whether the phone will be inexpensive(0), mid-range(1), expensive(2), or extremely expensive(3). To correctly categorise the data into appropriate price ranges, we will employ a variety of classification methods.
